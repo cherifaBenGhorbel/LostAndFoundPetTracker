@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664838524271",
+    "project_id": "lostandfoundpettracker-6861a",
+    "storage_bucket": "lostandfoundpettracker-6861a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664838524271:android:68a086a25e44af69126c9a",
+        "android_client_info": {
+          "package_name": "com.example.lostandfoundpettracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiMp-HH_7Q_Wop6EU4nALPO5xXFKn-SM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
